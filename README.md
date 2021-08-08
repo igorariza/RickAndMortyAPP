@@ -1,1 +1,0 @@
-# ChallengeMercadoLibreAndroid-kt
