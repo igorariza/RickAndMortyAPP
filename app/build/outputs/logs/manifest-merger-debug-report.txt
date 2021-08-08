@@ -1,0 +1,260 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/igor/Documents/ProyectosAndroidStudio/ChallengeML/app/src/main/AndroidManifest.xml:2:1-29:12
+INJECTED from /Users/igor/Documents/ProyectosAndroidStudio/ChallengeML/app/src/main/AndroidManifest.xml:2:1-29:12
+INJECTED from /Users/igor/Documents/ProyectosAndroidStudio/ChallengeML/app/src/main/AndroidManifest.xml:2:1-29:12
+INJECTED from /Users/igor/Documents/ProyectosAndroidStudio/ChallengeML/app/src/main/AndroidManifest.xml:2:1-29:12
+MERGED from [androidx.databinding:databinding-adapters:4.0.1] /Users/igor/.gradle/caches/transforms-2/files-2.1/78de48537f47c47c2e3be0ec46cf1045/databinding-adapters-4.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.databinding:databinding-runtime:4.0.1] /Users/igor/.gradle/caches/transforms-2/files-2.1/3f5423e23ce793b48c43afd78a3916f9/databinding-runtime-4.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [:usecases] /Users/igor/Documents/ProyectosAndroidStudio/ChallengeML/usecases/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-12:12
+MERGED from [:framework:databasemanager] /Users/igor/Documents/ProyectosAndroidStudio/ChallengeML/framework/databasemanager/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-12:12
+MERGED from [:framework:requestmanager] /Users/igor/Documents/ProyectosAndroidStudio/ChallengeML/framework/requestmanager/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-12:12
+MERGED from [:data] /Users/igor/Documents/ProyectosAndroidStudio/ChallengeML/data/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-12:12
+MERGED from [:framework:imagemanager] /Users/igor/Documents/ProyectosAndroidStudio/ChallengeML/framework/imagemanager/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-12:12
+MERGED from [androidx.core:core-ktx:1.3.0] /Users/igor/.gradle/caches/transforms-2/files-2.1/eb479fdffc910c6be917d68547a49099/jetified-core-ktx-1.3.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.material:material:1.1.0] /Users/igor/.gradle/caches/transforms-2/files-2.1/b3e1337ef64746055a8946b1a90b960a/material-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-reactivestreams-ktx:2.2.0] /Users/igor/.gradle/caches/transforms-2/files-2.1/de66fde754883b32d1e547d6b3a742ab/jetified-lifecycle-reactivestreams-ktx-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [io.reactivex.rxjava2:rxandroid:2.1.1] /Users/igor/.gradle/caches/transforms-2/files-2.1/a8812d66db62e9b26d6c1f501a43308f/jetified-rxandroid-2.1.1/AndroidManifest.xml:15:1-20:12
+MERGED from [androidx.room:room-rxjava2:2.2.5] /Users/igor/.gradle/caches/transforms-2/files-2.1/5df8615e666a35d725a8ff69820ffc39/room-rxjava2-2.2.5/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/igor/.gradle/caches/transforms-2/files-2.1/38d73252397e14f6b2ca8374e68e18f7/appcompat-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/igor/.gradle/caches/transforms-2/files-2.1/ae0d43a8cd9e2d0dca0ee7612d373384/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/igor/.gradle/caches/transforms-2/files-2.1/656c1ef9c96eb9844c4fefaa31eea625/constraintlayout-1.1.3/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/igor/.gradle/caches/transforms-2/files-2.1/484b16f1e5940703d264a70e13a14e3d/jetified-viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/igor/.gradle/caches/transforms-2/files-2.1/17f3264973adbc27bc15b903e97c2276/recyclerview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0] /Users/igor/.gradle/caches/transforms-2/files-2.1/353a9ee879e72d31c994ca52780022e0/swiperefreshlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.databinding:viewbinding:4.0.1] /Users/igor/.gradle/caches/transforms-2/files-2.1/b489210023b4e591650fd25144ad3624/jetified-viewbinding-4.0.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/igor/.gradle/caches/transforms-2/files-2.1/9851228a28131c6e079209b1996b47a5/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.2.0] /Users/igor/.gradle/caches/transforms-2/files-2.1/e960c38ba3074b13a07325926ae4b3e7/transition-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/igor/.gradle/caches/transforms-2/files-2.1/9e0815ff37e116a5a118a87691bd2001/jetified-appcompat-resources-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.github.bumptech.glide:glide:4.11.0] /Users/igor/.gradle/caches/transforms-2/files-2.1/3d4f81a582a484e56c4e7212231a5fd7/jetified-glide-4.11.0/AndroidManifest.xml:2:1-12:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/igor/.gradle/caches/transforms-2/files-2.1/4641752ec657f9b4a42d6a06f25d7d22/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/igor/.gradle/caches/transforms-2/files-2.1/4105de63edbfe1f7a89f44426cee4e60/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/igor/.gradle/caches/transforms-2/files-2.1/196689ac7938efd9fe7bde63e1bf8c1a/fragment-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/igor/.gradle/caches/transforms-2/files-2.1/2a612bd4c425dcfbfc1a3a304e287881/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/igor/.gradle/caches/transforms-2/files-2.1/c12747f68fadffbb0e0ad871896b687f/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/igor/.gradle/caches/transforms-2/files-2.1/a30017872b14105a400314921d5cb62e/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/igor/.gradle/caches/transforms-2/files-2.1/76e2c37ae32353ccc0fe554bfc39f522/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/igor/.gradle/caches/transforms-2/files-2.1/6f621cac338d61e4657df2851636b5fa/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] /Users/igor/.gradle/caches/transforms-2/files-2.1/f128d6cea3d455c774f9a9ff8c16c636/jetified-activity-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.3.0] /Users/igor/.gradle/caches/transforms-2/files-2.1/e270a6e88d0fcab34dc57babf6858d5a/core-1.3.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.lifecycle:lifecycle-reactivestreams:2.2.0] /Users/igor/.gradle/caches/transforms-2/files-2.1/0f467cc0135c75d2601a03d84ac2a2ea/lifecycle-reactivestreams-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/igor/.gradle/caches/transforms-2/files-2.1/7d6e7d8b4768dffce85856eb040e0ba1/lifecycle-runtime-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/igor/.gradle/caches/transforms-2/files-2.1/6118f679eabfffe3c12f082544a87853/versionedparcelable-1.1.0/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.room:room-runtime:2.2.5] /Users/igor/.gradle/caches/transforms-2/files-2.1/dc134f7c7c0cdfbb5f4a8b70f7dbf478/room-runtime-2.2.5/AndroidManifest.xml:17:1-31:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/igor/.gradle/caches/transforms-2/files-2.1/22f084678c0c8123034752ff82b9a006/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/igor/.gradle/caches/transforms-2/files-2.1/6ba1de9be899b775fb2e622bcf9ee329/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.sqlite:sqlite-framework:2.0.1] /Users/igor/.gradle/caches/transforms-2/files-2.1/e3edde45ffebbc7c1f6d733314641c7e/sqlite-framework-2.0.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.sqlite:sqlite:2.0.1] /Users/igor/.gradle/caches/transforms-2/files-2.1/ed0d183fbf2c77b799a8052e72e1610e/sqlite-2.0.1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] /Users/igor/.gradle/caches/transforms-2/files-2.1/cfa4e63f8e91dc956c50d4c8b23ea37e/jetified-gifdecoder-4.11.0/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] /Users/igor/.gradle/caches/transforms-2/files-2.1/1810aea4ce2a1227f21772ff132d1844/exifinterface-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.2.0] /Users/igor/.gradle/caches/transforms-2/files-2.1/adab60b679fd605dc0fe365f8feea7d6/lifecycle-livedata-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] /Users/igor/.gradle/caches/transforms-2/files-2.1/31435e025cdccb9fb8afecf6a35971cd/lifecycle-livedata-core-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/igor/.gradle/caches/transforms-2/files-2.1/ca6f5dc978f1f081f1b8afbaed8e2aeb/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/igor/.gradle/caches/transforms-2/files-2.1/aa817d39ca4f9f9f764e5a0b70163814/jetified-savedstate-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/igor/.gradle/caches/transforms-2/files-2.1/7ab9174479fb69088763d43ae7121c6c/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/igor/.gradle/caches/transforms-2/files-2.1/f99660dd63e7ed3a1e117a2af2f25bf8/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/igor/.gradle/caches/transforms-2/files-2.1/0a9c6c10530aac001e1e59b7495bfbcb/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/igor/.gradle/caches/transforms-2/files-2.1/fed0f8ee682bb48ac1e603badd88b3de/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/igor/Documents/ProyectosAndroidStudio/ChallengeML/app/src/main/AndroidManifest.xml:2:1-29:12
+INJECTED from /Users/igor/Documents/ProyectosAndroidStudio/ChallengeML/app/src/main/AndroidManifest.xml:2:1-29:12
+INJECTED from /Users/igor/Documents/ProyectosAndroidStudio/ChallengeML/app/src/main/AndroidManifest.xml:2:1-29:12
+	package
+		ADDED from /Users/igor/Documents/ProyectosAndroidStudio/ChallengeML/app/src/main/AndroidManifest.xml:3:5-39
+		INJECTED from /Users/igor/Documents/ProyectosAndroidStudio/ChallengeML/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/igor/Documents/ProyectosAndroidStudio/ChallengeML/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/igor/Documents/ProyectosAndroidStudio/ChallengeML/app/src/main/AndroidManifest.xml
+		ADDED from /Users/igor/Documents/ProyectosAndroidStudio/ChallengeML/app/src/main/AndroidManifest.xml:2:1-29:12
+		INJECTED from /Users/igor/Documents/ProyectosAndroidStudio/ChallengeML/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/igor/Documents/ProyectosAndroidStudio/ChallengeML/app/src/main/AndroidManifest.xml
+		ADDED from /Users/igor/Documents/ProyectosAndroidStudio/ChallengeML/app/src/main/AndroidManifest.xml:2:1-29:12
+		INJECTED from /Users/igor/Documents/ProyectosAndroidStudio/ChallengeML/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/igor/Documents/ProyectosAndroidStudio/ChallengeML/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/igor/Documents/ProyectosAndroidStudio/ChallengeML/app/src/main/AndroidManifest.xml:6:5-67
+	android:name
+		ADDED from /Users/igor/Documents/ProyectosAndroidStudio/ChallengeML/app/src/main/AndroidManifest.xml:6:22-64
+application
+ADDED from /Users/igor/Documents/ProyectosAndroidStudio/ChallengeML/app/src/main/AndroidManifest.xml:8:5-27:19
+MERGED from [com.google.android.material:material:1.1.0] /Users/igor/.gradle/caches/transforms-2/files-2.1/b3e1337ef64746055a8946b1a90b960a/material-1.1.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.1.0] /Users/igor/.gradle/caches/transforms-2/files-2.1/b3e1337ef64746055a8946b1a90b960a/material-1.1.0/AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/igor/.gradle/caches/transforms-2/files-2.1/656c1ef9c96eb9844c4fefaa31eea625/constraintlayout-1.1.3/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/igor/.gradle/caches/transforms-2/files-2.1/656c1ef9c96eb9844c4fefaa31eea625/constraintlayout-1.1.3/AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:glide:4.11.0] /Users/igor/.gradle/caches/transforms-2/files-2.1/3d4f81a582a484e56c4e7212231a5fd7/jetified-glide-4.11.0/AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:glide:4.11.0] /Users/igor/.gradle/caches/transforms-2/files-2.1/3d4f81a582a484e56c4e7212231a5fd7/jetified-glide-4.11.0/AndroidManifest.xml:10:5-20
+MERGED from [androidx.core:core:1.3.0] /Users/igor/.gradle/caches/transforms-2/files-2.1/e270a6e88d0fcab34dc57babf6858d5a/core-1.3.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.3.0] /Users/igor/.gradle/caches/transforms-2/files-2.1/e270a6e88d0fcab34dc57babf6858d5a/core-1.3.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/igor/.gradle/caches/transforms-2/files-2.1/6118f679eabfffe3c12f082544a87853/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/igor/.gradle/caches/transforms-2/files-2.1/6118f679eabfffe3c12f082544a87853/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.room:room-runtime:2.2.5] /Users/igor/.gradle/caches/transforms-2/files-2.1/dc134f7c7c0cdfbb5f4a8b70f7dbf478/room-runtime-2.2.5/AndroidManifest.xml:24:5-29:19
+MERGED from [androidx.room:room-runtime:2.2.5] /Users/igor/.gradle/caches/transforms-2/files-2.1/dc134f7c7c0cdfbb5f4a8b70f7dbf478/room-runtime-2.2.5/AndroidManifest.xml:24:5-29:19
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] /Users/igor/.gradle/caches/transforms-2/files-2.1/cfa4e63f8e91dc956c50d4c8b23ea37e/jetified-gifdecoder-4.11.0/AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] /Users/igor/.gradle/caches/transforms-2/files-2.1/cfa4e63f8e91dc956c50d4c8b23ea37e/jetified-gifdecoder-4.11.0/AndroidManifest.xml:9:5-20
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.3.0] /Users/igor/.gradle/caches/transforms-2/files-2.1/e270a6e88d0fcab34dc57babf6858d5a/core-1.3.0/AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from /Users/igor/Documents/ProyectosAndroidStudio/ChallengeML/app/src/main/AndroidManifest.xml:15:9-35
+	android:label
+		ADDED from /Users/igor/Documents/ProyectosAndroidStudio/ChallengeML/app/src/main/AndroidManifest.xml:13:9-41
+	android:roundIcon
+		ADDED from /Users/igor/Documents/ProyectosAndroidStudio/ChallengeML/app/src/main/AndroidManifest.xml:14:9-54
+	android:icon
+		ADDED from /Users/igor/Documents/ProyectosAndroidStudio/ChallengeML/app/src/main/AndroidManifest.xml:12:9-43
+	android:allowBackup
+		ADDED from /Users/igor/Documents/ProyectosAndroidStudio/ChallengeML/app/src/main/AndroidManifest.xml:11:9-36
+	android:theme
+		ADDED from /Users/igor/Documents/ProyectosAndroidStudio/ChallengeML/app/src/main/AndroidManifest.xml:16:9-40
+	android:networkSecurityConfig
+		ADDED from /Users/igor/Documents/ProyectosAndroidStudio/ChallengeML/app/src/main/AndroidManifest.xml:9:9-69
+	android:name
+		ADDED from /Users/igor/Documents/ProyectosAndroidStudio/ChallengeML/app/src/main/AndroidManifest.xml:10:9-63
+activity#com.ml.android.challenge.ui.MainActivity
+ADDED from /Users/igor/Documents/ProyectosAndroidStudio/ChallengeML/app/src/main/AndroidManifest.xml:17:9-23:20
+	android:launchMode
+		ADDED from /Users/igor/Documents/ProyectosAndroidStudio/ChallengeML/app/src/main/AndroidManifest.xml:18:13-43
+	android:name
+		ADDED from /Users/igor/Documents/ProyectosAndroidStudio/ChallengeML/app/src/main/AndroidManifest.xml:17:19-74
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/igor/Documents/ProyectosAndroidStudio/ChallengeML/app/src/main/AndroidManifest.xml:19:13-22:29
+action#android.intent.action.MAIN
+ADDED from /Users/igor/Documents/ProyectosAndroidStudio/ChallengeML/app/src/main/AndroidManifest.xml:20:17-69
+	android:name
+		ADDED from /Users/igor/Documents/ProyectosAndroidStudio/ChallengeML/app/src/main/AndroidManifest.xml:20:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/igor/Documents/ProyectosAndroidStudio/ChallengeML/app/src/main/AndroidManifest.xml:21:17-77
+	android:name
+		ADDED from /Users/igor/Documents/ProyectosAndroidStudio/ChallengeML/app/src/main/AndroidManifest.xml:21:27-74
+activity#com.ml.android.challenge.ui.CharacterDetailActivity
+ADDED from /Users/igor/Documents/ProyectosAndroidStudio/ChallengeML/app/src/main/AndroidManifest.xml:24:9-26:85
+	android:parentActivityName
+		ADDED from /Users/igor/Documents/ProyectosAndroidStudio/ChallengeML/app/src/main/AndroidManifest.xml:26:13-82
+	android:label
+		ADDED from /Users/igor/Documents/ProyectosAndroidStudio/ChallengeML/app/src/main/AndroidManifest.xml:25:13-68
+	android:name
+		ADDED from /Users/igor/Documents/ProyectosAndroidStudio/ChallengeML/app/src/main/AndroidManifest.xml:24:19-85
+uses-sdk
+INJECTED from /Users/igor/Documents/ProyectosAndroidStudio/ChallengeML/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/igor/Documents/ProyectosAndroidStudio/ChallengeML/app/src/main/AndroidManifest.xml
+INJECTED from /Users/igor/Documents/ProyectosAndroidStudio/ChallengeML/app/src/main/AndroidManifest.xml
+MERGED from [androidx.databinding:databinding-adapters:4.0.1] /Users/igor/.gradle/caches/transforms-2/files-2.1/78de48537f47c47c2e3be0ec46cf1045/databinding-adapters-4.0.1/AndroidManifest.xml:22:5-44
+MERGED from [androidx.databinding:databinding-adapters:4.0.1] /Users/igor/.gradle/caches/transforms-2/files-2.1/78de48537f47c47c2e3be0ec46cf1045/databinding-adapters-4.0.1/AndroidManifest.xml:22:5-44
+MERGED from [androidx.databinding:databinding-runtime:4.0.1] /Users/igor/.gradle/caches/transforms-2/files-2.1/3f5423e23ce793b48c43afd78a3916f9/databinding-runtime-4.0.1/AndroidManifest.xml:22:5-44
+MERGED from [androidx.databinding:databinding-runtime:4.0.1] /Users/igor/.gradle/caches/transforms-2/files-2.1/3f5423e23ce793b48c43afd78a3916f9/databinding-runtime-4.0.1/AndroidManifest.xml:22:5-44
+MERGED from [:usecases] /Users/igor/Documents/ProyectosAndroidStudio/ChallengeML/usecases/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:usecases] /Users/igor/Documents/ProyectosAndroidStudio/ChallengeML/usecases/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:framework:databasemanager] /Users/igor/Documents/ProyectosAndroidStudio/ChallengeML/framework/databasemanager/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:framework:databasemanager] /Users/igor/Documents/ProyectosAndroidStudio/ChallengeML/framework/databasemanager/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:framework:requestmanager] /Users/igor/Documents/ProyectosAndroidStudio/ChallengeML/framework/requestmanager/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:framework:requestmanager] /Users/igor/Documents/ProyectosAndroidStudio/ChallengeML/framework/requestmanager/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:data] /Users/igor/Documents/ProyectosAndroidStudio/ChallengeML/data/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:data] /Users/igor/Documents/ProyectosAndroidStudio/ChallengeML/data/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:framework:imagemanager] /Users/igor/Documents/ProyectosAndroidStudio/ChallengeML/framework/imagemanager/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:framework:imagemanager] /Users/igor/Documents/ProyectosAndroidStudio/ChallengeML/framework/imagemanager/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.core:core-ktx:1.3.0] /Users/igor/.gradle/caches/transforms-2/files-2.1/eb479fdffc910c6be917d68547a49099/jetified-core-ktx-1.3.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.3.0] /Users/igor/.gradle/caches/transforms-2/files-2.1/eb479fdffc910c6be917d68547a49099/jetified-core-ktx-1.3.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.material:material:1.1.0] /Users/igor/.gradle/caches/transforms-2/files-2.1/b3e1337ef64746055a8946b1a90b960a/material-1.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.1.0] /Users/igor/.gradle/caches/transforms-2/files-2.1/b3e1337ef64746055a8946b1a90b960a/material-1.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-reactivestreams-ktx:2.2.0] /Users/igor/.gradle/caches/transforms-2/files-2.1/de66fde754883b32d1e547d6b3a742ab/jetified-lifecycle-reactivestreams-ktx-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-reactivestreams-ktx:2.2.0] /Users/igor/.gradle/caches/transforms-2/files-2.1/de66fde754883b32d1e547d6b3a742ab/jetified-lifecycle-reactivestreams-ktx-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [io.reactivex.rxjava2:rxandroid:2.1.1] /Users/igor/.gradle/caches/transforms-2/files-2.1/a8812d66db62e9b26d6c1f501a43308f/jetified-rxandroid-2.1.1/AndroidManifest.xml:18:5-43
+MERGED from [io.reactivex.rxjava2:rxandroid:2.1.1] /Users/igor/.gradle/caches/transforms-2/files-2.1/a8812d66db62e9b26d6c1f501a43308f/jetified-rxandroid-2.1.1/AndroidManifest.xml:18:5-43
+MERGED from [androidx.room:room-rxjava2:2.2.5] /Users/igor/.gradle/caches/transforms-2/files-2.1/5df8615e666a35d725a8ff69820ffc39/room-rxjava2-2.2.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.room:room-rxjava2:2.2.5] /Users/igor/.gradle/caches/transforms-2/files-2.1/5df8615e666a35d725a8ff69820ffc39/room-rxjava2-2.2.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/igor/.gradle/caches/transforms-2/files-2.1/38d73252397e14f6b2ca8374e68e18f7/appcompat-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/igor/.gradle/caches/transforms-2/files-2.1/38d73252397e14f6b2ca8374e68e18f7/appcompat-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/igor/.gradle/caches/transforms-2/files-2.1/ae0d43a8cd9e2d0dca0ee7612d373384/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/igor/.gradle/caches/transforms-2/files-2.1/ae0d43a8cd9e2d0dca0ee7612d373384/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/igor/.gradle/caches/transforms-2/files-2.1/656c1ef9c96eb9844c4fefaa31eea625/constraintlayout-1.1.3/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/igor/.gradle/caches/transforms-2/files-2.1/656c1ef9c96eb9844c4fefaa31eea625/constraintlayout-1.1.3/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/igor/.gradle/caches/transforms-2/files-2.1/484b16f1e5940703d264a70e13a14e3d/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/igor/.gradle/caches/transforms-2/files-2.1/484b16f1e5940703d264a70e13a14e3d/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/igor/.gradle/caches/transforms-2/files-2.1/17f3264973adbc27bc15b903e97c2276/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/igor/.gradle/caches/transforms-2/files-2.1/17f3264973adbc27bc15b903e97c2276/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0] /Users/igor/.gradle/caches/transforms-2/files-2.1/353a9ee879e72d31c994ca52780022e0/swiperefreshlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0] /Users/igor/.gradle/caches/transforms-2/files-2.1/353a9ee879e72d31c994ca52780022e0/swiperefreshlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.databinding:viewbinding:4.0.1] /Users/igor/.gradle/caches/transforms-2/files-2.1/b489210023b4e591650fd25144ad3624/jetified-viewbinding-4.0.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.databinding:viewbinding:4.0.1] /Users/igor/.gradle/caches/transforms-2/files-2.1/b489210023b4e591650fd25144ad3624/jetified-viewbinding-4.0.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/igor/.gradle/caches/transforms-2/files-2.1/9851228a28131c6e079209b1996b47a5/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/igor/.gradle/caches/transforms-2/files-2.1/9851228a28131c6e079209b1996b47a5/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /Users/igor/.gradle/caches/transforms-2/files-2.1/e960c38ba3074b13a07325926ae4b3e7/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /Users/igor/.gradle/caches/transforms-2/files-2.1/e960c38ba3074b13a07325926ae4b3e7/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/igor/.gradle/caches/transforms-2/files-2.1/9e0815ff37e116a5a118a87691bd2001/jetified-appcompat-resources-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/igor/.gradle/caches/transforms-2/files-2.1/9e0815ff37e116a5a118a87691bd2001/jetified-appcompat-resources-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.github.bumptech.glide:glide:4.11.0] /Users/igor/.gradle/caches/transforms-2/files-2.1/3d4f81a582a484e56c4e7212231a5fd7/jetified-glide-4.11.0/AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:glide:4.11.0] /Users/igor/.gradle/caches/transforms-2/files-2.1/3d4f81a582a484e56c4e7212231a5fd7/jetified-glide-4.11.0/AndroidManifest.xml:6:5-8:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/igor/.gradle/caches/transforms-2/files-2.1/4641752ec657f9b4a42d6a06f25d7d22/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/igor/.gradle/caches/transforms-2/files-2.1/4641752ec657f9b4a42d6a06f25d7d22/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/igor/.gradle/caches/transforms-2/files-2.1/4105de63edbfe1f7a89f44426cee4e60/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/igor/.gradle/caches/transforms-2/files-2.1/4105de63edbfe1f7a89f44426cee4e60/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/igor/.gradle/caches/transforms-2/files-2.1/196689ac7938efd9fe7bde63e1bf8c1a/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/igor/.gradle/caches/transforms-2/files-2.1/196689ac7938efd9fe7bde63e1bf8c1a/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/igor/.gradle/caches/transforms-2/files-2.1/2a612bd4c425dcfbfc1a3a304e287881/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/igor/.gradle/caches/transforms-2/files-2.1/2a612bd4c425dcfbfc1a3a304e287881/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/igor/.gradle/caches/transforms-2/files-2.1/c12747f68fadffbb0e0ad871896b687f/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/igor/.gradle/caches/transforms-2/files-2.1/c12747f68fadffbb0e0ad871896b687f/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/igor/.gradle/caches/transforms-2/files-2.1/a30017872b14105a400314921d5cb62e/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/igor/.gradle/caches/transforms-2/files-2.1/a30017872b14105a400314921d5cb62e/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/igor/.gradle/caches/transforms-2/files-2.1/76e2c37ae32353ccc0fe554bfc39f522/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/igor/.gradle/caches/transforms-2/files-2.1/76e2c37ae32353ccc0fe554bfc39f522/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/igor/.gradle/caches/transforms-2/files-2.1/6f621cac338d61e4657df2851636b5fa/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/igor/.gradle/caches/transforms-2/files-2.1/6f621cac338d61e4657df2851636b5fa/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] /Users/igor/.gradle/caches/transforms-2/files-2.1/f128d6cea3d455c774f9a9ff8c16c636/jetified-activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] /Users/igor/.gradle/caches/transforms-2/files-2.1/f128d6cea3d455c774f9a9ff8c16c636/jetified-activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.3.0] /Users/igor/.gradle/caches/transforms-2/files-2.1/e270a6e88d0fcab34dc57babf6858d5a/core-1.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.3.0] /Users/igor/.gradle/caches/transforms-2/files-2.1/e270a6e88d0fcab34dc57babf6858d5a/core-1.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-reactivestreams:2.2.0] /Users/igor/.gradle/caches/transforms-2/files-2.1/0f467cc0135c75d2601a03d84ac2a2ea/lifecycle-reactivestreams-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-reactivestreams:2.2.0] /Users/igor/.gradle/caches/transforms-2/files-2.1/0f467cc0135c75d2601a03d84ac2a2ea/lifecycle-reactivestreams-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/igor/.gradle/caches/transforms-2/files-2.1/7d6e7d8b4768dffce85856eb040e0ba1/lifecycle-runtime-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/igor/.gradle/caches/transforms-2/files-2.1/7d6e7d8b4768dffce85856eb040e0ba1/lifecycle-runtime-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/igor/.gradle/caches/transforms-2/files-2.1/6118f679eabfffe3c12f082544a87853/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/igor/.gradle/caches/transforms-2/files-2.1/6118f679eabfffe3c12f082544a87853/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.room:room-runtime:2.2.5] /Users/igor/.gradle/caches/transforms-2/files-2.1/dc134f7c7c0cdfbb5f4a8b70f7dbf478/room-runtime-2.2.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.room:room-runtime:2.2.5] /Users/igor/.gradle/caches/transforms-2/files-2.1/dc134f7c7c0cdfbb5f4a8b70f7dbf478/room-runtime-2.2.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/igor/.gradle/caches/transforms-2/files-2.1/22f084678c0c8123034752ff82b9a006/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/igor/.gradle/caches/transforms-2/files-2.1/22f084678c0c8123034752ff82b9a006/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/igor/.gradle/caches/transforms-2/files-2.1/6ba1de9be899b775fb2e622bcf9ee329/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/igor/.gradle/caches/transforms-2/files-2.1/6ba1de9be899b775fb2e622bcf9ee329/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite-framework:2.0.1] /Users/igor/.gradle/caches/transforms-2/files-2.1/e3edde45ffebbc7c1f6d733314641c7e/sqlite-framework-2.0.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite-framework:2.0.1] /Users/igor/.gradle/caches/transforms-2/files-2.1/e3edde45ffebbc7c1f6d733314641c7e/sqlite-framework-2.0.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite:2.0.1] /Users/igor/.gradle/caches/transforms-2/files-2.1/ed0d183fbf2c77b799a8052e72e1610e/sqlite-2.0.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite:2.0.1] /Users/igor/.gradle/caches/transforms-2/files-2.1/ed0d183fbf2c77b799a8052e72e1610e/sqlite-2.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] /Users/igor/.gradle/caches/transforms-2/files-2.1/cfa4e63f8e91dc956c50d4c8b23ea37e/jetified-gifdecoder-4.11.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] /Users/igor/.gradle/caches/transforms-2/files-2.1/cfa4e63f8e91dc956c50d4c8b23ea37e/jetified-gifdecoder-4.11.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] /Users/igor/.gradle/caches/transforms-2/files-2.1/1810aea4ce2a1227f21772ff132d1844/exifinterface-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] /Users/igor/.gradle/caches/transforms-2/files-2.1/1810aea4ce2a1227f21772ff132d1844/exifinterface-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.2.0] /Users/igor/.gradle/caches/transforms-2/files-2.1/adab60b679fd605dc0fe365f8feea7d6/lifecycle-livedata-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.2.0] /Users/igor/.gradle/caches/transforms-2/files-2.1/adab60b679fd605dc0fe365f8feea7d6/lifecycle-livedata-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] /Users/igor/.gradle/caches/transforms-2/files-2.1/31435e025cdccb9fb8afecf6a35971cd/lifecycle-livedata-core-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] /Users/igor/.gradle/caches/transforms-2/files-2.1/31435e025cdccb9fb8afecf6a35971cd/lifecycle-livedata-core-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/igor/.gradle/caches/transforms-2/files-2.1/ca6f5dc978f1f081f1b8afbaed8e2aeb/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/igor/.gradle/caches/transforms-2/files-2.1/ca6f5dc978f1f081f1b8afbaed8e2aeb/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/igor/.gradle/caches/transforms-2/files-2.1/aa817d39ca4f9f9f764e5a0b70163814/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/igor/.gradle/caches/transforms-2/files-2.1/aa817d39ca4f9f9f764e5a0b70163814/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/igor/.gradle/caches/transforms-2/files-2.1/7ab9174479fb69088763d43ae7121c6c/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/igor/.gradle/caches/transforms-2/files-2.1/7ab9174479fb69088763d43ae7121c6c/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/igor/.gradle/caches/transforms-2/files-2.1/f99660dd63e7ed3a1e117a2af2f25bf8/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/igor/.gradle/caches/transforms-2/files-2.1/f99660dd63e7ed3a1e117a2af2f25bf8/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/igor/.gradle/caches/transforms-2/files-2.1/0a9c6c10530aac001e1e59b7495bfbcb/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/igor/.gradle/caches/transforms-2/files-2.1/0a9c6c10530aac001e1e59b7495bfbcb/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/igor/.gradle/caches/transforms-2/files-2.1/fed0f8ee682bb48ac1e603badd88b3de/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/igor/.gradle/caches/transforms-2/files-2.1/fed0f8ee682bb48ac1e603badd88b3de/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+INJECTED from /Users/igor/Documents/ProyectosAndroidStudio/ChallengeML/app/src/main/AndroidManifest.xml
+INJECTED from /Users/igor/Documents/ProyectosAndroidStudio/ChallengeML/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/igor/Documents/ProyectosAndroidStudio/ChallengeML/app/src/main/AndroidManifest.xml
+		ADDED from /Users/igor/Documents/ProyectosAndroidStudio/ChallengeML/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/igor/Documents/ProyectosAndroidStudio/ChallengeML/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/igor/Documents/ProyectosAndroidStudio/ChallengeML/app/src/main/AndroidManifest.xml
+		ADDED from /Users/igor/Documents/ProyectosAndroidStudio/ChallengeML/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/igor/Documents/ProyectosAndroidStudio/ChallengeML/app/src/main/AndroidManifest.xml
+service#androidx.room.MultiInstanceInvalidationService
+ADDED from [androidx.room:room-runtime:2.2.5] /Users/igor/.gradle/caches/transforms-2/files-2.1/dc134f7c7c0cdfbb5f4a8b70f7dbf478/room-runtime-2.2.5/AndroidManifest.xml:25:9-28:40
+	android:exported
+		ADDED from [androidx.room:room-runtime:2.2.5] /Users/igor/.gradle/caches/transforms-2/files-2.1/dc134f7c7c0cdfbb5f4a8b70f7dbf478/room-runtime-2.2.5/AndroidManifest.xml:28:13-37
+	android:directBootAware
+		ADDED from [androidx.room:room-runtime:2.2.5] /Users/igor/.gradle/caches/transforms-2/files-2.1/dc134f7c7c0cdfbb5f4a8b70f7dbf478/room-runtime-2.2.5/AndroidManifest.xml:27:13-43
+	android:name
+		ADDED from [androidx.room:room-runtime:2.2.5] /Users/igor/.gradle/caches/transforms-2/files-2.1/dc134f7c7c0cdfbb5f4a8b70f7dbf478/room-runtime-2.2.5/AndroidManifest.xml:26:13-74

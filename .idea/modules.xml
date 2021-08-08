@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ChallengeML.iml" filepath="$PROJECT_DIR$/.idea/modules/ChallengeML.iml" group="ChallengeML" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/app.iml" group="ChallengeML/app" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/data/data.iml" filepath="$PROJECT_DIR$/.idea/modules/data/data.iml" group="ChallengeML/data" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/framework/databasemanager/databasemanager.iml" filepath="$PROJECT_DIR$/.idea/modules/framework/databasemanager/databasemanager.iml" group="ChallengeML/framework/databasemanager" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/domain/domain.iml" filepath="$PROJECT_DIR$/.idea/modules/domain/domain.iml" group="ChallengeML/domain" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/framework/framework.iml" filepath="$PROJECT_DIR$/.idea/modules/framework/framework.iml" group="ChallengeML/framework" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/framework/imagemanager/imagemanager.iml" filepath="$PROJECT_DIR$/.idea/modules/framework/imagemanager/imagemanager.iml" group="ChallengeML/framework/imagemanager" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/framework/requestmanager/requestmanager.iml" filepath="$PROJECT_DIR$/.idea/modules/framework/requestmanager/requestmanager.iml" group="ChallengeML/framework/requestmanager" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/usecases/usecases.iml" filepath="$PROJECT_DIR$/.idea/modules/usecases/usecases.iml" group="ChallengeML/usecases" />
+    </modules>
+  </component>
+</project>

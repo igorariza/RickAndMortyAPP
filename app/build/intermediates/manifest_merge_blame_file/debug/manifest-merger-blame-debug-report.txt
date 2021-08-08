@@ -1,0 +1,77 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.ml.android.challenge"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="26"
+8-->/Users/igor/Documents/ProyectosAndroidStudio/ChallengeML/app/src/main/AndroidManifest.xml
+9        android:targetSdkVersion="29" />
+9-->/Users/igor/Documents/ProyectosAndroidStudio/ChallengeML/app/src/main/AndroidManifest.xml
+10
+11    <!-- Permissions -->
+12    <uses-permission android:name="android.permission.INTERNET" />
+12-->/Users/igor/Documents/ProyectosAndroidStudio/ChallengeML/app/src/main/AndroidManifest.xml:6:5-67
+12-->/Users/igor/Documents/ProyectosAndroidStudio/ChallengeML/app/src/main/AndroidManifest.xml:6:22-64
+13
+14    <application
+14-->/Users/igor/Documents/ProyectosAndroidStudio/ChallengeML/app/src/main/AndroidManifest.xml:8:5-27:19
+15        android:name="com.ml.android.challenge.ChallengeMLApp"
+15-->/Users/igor/Documents/ProyectosAndroidStudio/ChallengeML/app/src/main/AndroidManifest.xml:10:9-63
+16        android:allowBackup="false"
+16-->/Users/igor/Documents/ProyectosAndroidStudio/ChallengeML/app/src/main/AndroidManifest.xml:11:9-36
+17        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+17-->[androidx.core:core:1.3.0] /Users/igor/.gradle/caches/transforms-2/files-2.1/e270a6e88d0fcab34dc57babf6858d5a/core-1.3.0/AndroidManifest.xml:24:18-86
+18        android:debuggable="true"
+19        android:extractNativeLibs="false"
+20        android:icon="@mipmap/ic_launcher"
+20-->/Users/igor/Documents/ProyectosAndroidStudio/ChallengeML/app/src/main/AndroidManifest.xml:12:9-43
+21        android:label="@string/app_name"
+21-->/Users/igor/Documents/ProyectosAndroidStudio/ChallengeML/app/src/main/AndroidManifest.xml:13:9-41
+22        android:networkSecurityConfig="@xml/network_security_config"
+22-->/Users/igor/Documents/ProyectosAndroidStudio/ChallengeML/app/src/main/AndroidManifest.xml:9:9-69
+23        android:roundIcon="@mipmap/ic_launcher_round"
+23-->/Users/igor/Documents/ProyectosAndroidStudio/ChallengeML/app/src/main/AndroidManifest.xml:14:9-54
+24        android:supportsRtl="true"
+24-->/Users/igor/Documents/ProyectosAndroidStudio/ChallengeML/app/src/main/AndroidManifest.xml:15:9-35
+25        android:testOnly="true"
+26        android:theme="@style/AppTheme" >
+26-->/Users/igor/Documents/ProyectosAndroidStudio/ChallengeML/app/src/main/AndroidManifest.xml:16:9-40
+27        <activity
+27-->/Users/igor/Documents/ProyectosAndroidStudio/ChallengeML/app/src/main/AndroidManifest.xml:17:9-23:20
+28            android:name="com.ml.android.challenge.ui.MainActivity"
+28-->/Users/igor/Documents/ProyectosAndroidStudio/ChallengeML/app/src/main/AndroidManifest.xml:17:19-74
+29            android:launchMode="singleTop" >
+29-->/Users/igor/Documents/ProyectosAndroidStudio/ChallengeML/app/src/main/AndroidManifest.xml:18:13-43
+30            <intent-filter>
+30-->/Users/igor/Documents/ProyectosAndroidStudio/ChallengeML/app/src/main/AndroidManifest.xml:19:13-22:29
+31                <action android:name="android.intent.action.MAIN" />
+31-->/Users/igor/Documents/ProyectosAndroidStudio/ChallengeML/app/src/main/AndroidManifest.xml:20:17-69
+31-->/Users/igor/Documents/ProyectosAndroidStudio/ChallengeML/app/src/main/AndroidManifest.xml:20:25-66
+32
+33                <category android:name="android.intent.category.LAUNCHER" />
+33-->/Users/igor/Documents/ProyectosAndroidStudio/ChallengeML/app/src/main/AndroidManifest.xml:21:17-77
+33-->/Users/igor/Documents/ProyectosAndroidStudio/ChallengeML/app/src/main/AndroidManifest.xml:21:27-74
+34            </intent-filter>
+35        </activity>
+36        <activity
+36-->/Users/igor/Documents/ProyectosAndroidStudio/ChallengeML/app/src/main/AndroidManifest.xml:24:9-26:85
+37            android:name="com.ml.android.challenge.ui.CharacterDetailActivity"
+37-->/Users/igor/Documents/ProyectosAndroidStudio/ChallengeML/app/src/main/AndroidManifest.xml:24:19-85
+38            android:label="@string/title_character_detail_activity"
+38-->/Users/igor/Documents/ProyectosAndroidStudio/ChallengeML/app/src/main/AndroidManifest.xml:25:13-68
+39            android:parentActivityName="com.ml.android.challenge.ui.MainActivity" />
+39-->/Users/igor/Documents/ProyectosAndroidStudio/ChallengeML/app/src/main/AndroidManifest.xml:26:13-82
+40
+41        <service
+41-->[androidx.room:room-runtime:2.2.5] /Users/igor/.gradle/caches/transforms-2/files-2.1/dc134f7c7c0cdfbb5f4a8b70f7dbf478/room-runtime-2.2.5/AndroidManifest.xml:25:9-28:40
+42            android:name="androidx.room.MultiInstanceInvalidationService"
+42-->[androidx.room:room-runtime:2.2.5] /Users/igor/.gradle/caches/transforms-2/files-2.1/dc134f7c7c0cdfbb5f4a8b70f7dbf478/room-runtime-2.2.5/AndroidManifest.xml:26:13-74
+43            android:directBootAware="true"
+43-->[androidx.room:room-runtime:2.2.5] /Users/igor/.gradle/caches/transforms-2/files-2.1/dc134f7c7c0cdfbb5f4a8b70f7dbf478/room-runtime-2.2.5/AndroidManifest.xml:27:13-43
+44            android:exported="false" />
+44-->[androidx.room:room-runtime:2.2.5] /Users/igor/.gradle/caches/transforms-2/files-2.1/dc134f7c7c0cdfbb5f4a8b70f7dbf478/room-runtime-2.2.5/AndroidManifest.xml:28:13-37
+45    </application>
+46
+47</manifest>

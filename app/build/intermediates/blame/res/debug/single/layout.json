@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/igor/Documents/ProyectosAndroidStudio/ChallengeML/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/item_grid_favorite_character.xml",
+        "source": "/Users/igor/Documents/ProyectosAndroidStudio/ChallengeML/app/src/main/res/layout/item_grid_favorite_character.xml"
+    },
+    {
+        "merged": "/Users/igor/Documents/ProyectosAndroidStudio/ChallengeML/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_favorite_list.xml",
+        "source": "/Users/igor/Documents/ProyectosAndroidStudio/ChallengeML/app/src/main/res/layout/fragment_favorite_list.xml"
+    },
+    {
+        "merged": "/Users/igor/Documents/ProyectosAndroidStudio/ChallengeML/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/item_list_episode.xml",
+        "source": "/Users/igor/Documents/ProyectosAndroidStudio/ChallengeML/app/src/main/res/layout/item_list_episode.xml"
+    },
+    {
+        "merged": "/Users/igor/Documents/ProyectosAndroidStudio/ChallengeML/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_character_detail.xml",
+        "source": "/Users/igor/Documents/ProyectosAndroidStudio/ChallengeML/app/src/main/res/layout/activity_character_detail.xml"
+    },
+    {
+        "merged": "/Users/igor/Documents/ProyectosAndroidStudio/ChallengeML/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_character_list.xml",
+        "source": "/Users/igor/Documents/ProyectosAndroidStudio/ChallengeML/app/src/main/res/layout/fragment_character_list.xml"
+    },
+    {
+        "merged": "/Users/igor/Documents/ProyectosAndroidStudio/ChallengeML/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/item_grid_character.xml",
+        "source": "/Users/igor/Documents/ProyectosAndroidStudio/ChallengeML/app/src/main/res/layout/item_grid_character.xml"
+    }
+]
