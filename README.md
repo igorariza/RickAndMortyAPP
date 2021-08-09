@@ -22,10 +22,9 @@ https://rickandmortyapi.com/documentation/
 
 ### Arquitectura
 
-ESe aplican buenas prácticas de la arquitectura limpia (Clean Architecture)
+Se aplican buenas prácticas en arquitectura limpia (Clean Architecture)
 
 #### Capas
-
 * App: UI.
 * Presentación: View Models.
 * Casos de uso: GetAllCharactersUseCase, GetEpisodeFromCharacterUseCase, etc.
